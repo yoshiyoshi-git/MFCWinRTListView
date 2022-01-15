@@ -1,0 +1,4 @@
+<StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <Button Name="button" Content="Button" HorizontalAlignment="left"/>
+    <ListView Name="listview" Background="Aqua" Height="400" Width="300" HorizontalAlignment="left"/>
+</StackPanel>
